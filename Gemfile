@@ -9,12 +9,12 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
-gem 'bootstrap-sass'
 gem 'devise'
 gem 'pg'
 gem 'simple_form'
 gem 'unicorn'
 gem 'unicorn-rails'
+gem 'themes_on_rails'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_20]
